@@ -1,1 +1,1 @@
-![photo](image/photo.jpg)
+<img src="image/photo.jpg" alt="alt text" width="200"/>
